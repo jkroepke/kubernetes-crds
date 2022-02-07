@@ -7,3 +7,9 @@
 [submodule "sources/argo-cd"]
 	path = sources/argo-cd
 	url = https://github.com/argoproj/argo-helm.git
+[submodule "sources/postgres-operator"]
+	path = sources/postgres-operator
+	url = https://github.com/zalando/postgres-operator.git
+[submodule "sources/prometheus"]
+	path = sources/prometheus
+	url = https://github.com/prometheus-community/helm-charts.git
